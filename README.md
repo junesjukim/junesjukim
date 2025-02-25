@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 -->
 👋 Hi, I’m June.
 ---  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFF&style=flat-square)
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![Static Badge](https://img.shields.io/badge/C)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=FFF&style=flat-square)
+![JavaScript](https://shields.io/badge/JavaScript-black?logo=JavaScript&logoColor=FFF&style=flat-square)
+![C](https://shields.io/badge/C-black?logo=c&logoColor=fff&style=flat-square)
 
 __Recent Project__
 - [PlanningWithFlowmatching](https://github.com/junesjukim/PlanningWithFlowmatching)
