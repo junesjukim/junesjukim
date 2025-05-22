@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 __Recent Project__
 - [PlanningWithFlowmatching](https://github.com/junesjukim/diffuser_research)
-- [DiffuserImplementationInOgbench](https://github.com/junesjukim/diffuser_ogbench)
+- [DiffuserOnOgbench](https://github.com/junesjukim/diffuser_ogbench)
 - [MEDi](https://github.com/2nd-Company/MEDi)
 
 __Things I do__
