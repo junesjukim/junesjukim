@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 ![C](https://shields.io/badge/C-black?logo=c&logoColor=fff&style=flat-square)
 
 __Recent Project__
-- [PlanningWithFlowmatching](https://github.com/junesjukim/PlanningWithFlowmatching)
+- [PlanningWithFlowmatching](https://github.com/junesjukim/diffuser_research)
+- [DiffuserImplementationInOgbench](https://github.com/junesjukim/diffuser_ogbench)
 - [MEDi](https://github.com/2nd-Company/MEDi)
 
 __Things I do__
