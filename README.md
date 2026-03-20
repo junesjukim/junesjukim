@@ -1,11 +1,9 @@
 __👋 Hi, this is June__
 ---  
-![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=FFF&style=flat-square)
-![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=FFF&style=flat-square)
-![C](https://shields.io/badge/C-black?logo=c&logoColor=fff&style=flat-square)
-![TypeScript](https://shields.io/badge/TypeScript-black?logo=TypeScript&logoColor=FFF&style=flat-square)
-![JavaScript](https://shields.io/badge/JavaScript-black?logo=JavaScript&logoColor=FFF&style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-black.svg?style=flat-square&logo=amazon-aws&logoColor=FFF)
+**Robotics & Sim** | ![MuJoCo](https://img.shields.io/badge/MuJoCo-black?style=flat-square) ![Isaac Lab](https://img.shields.io/badge/Isaac_Lab-black?style=flat-square) ![ROS2](https://img.shields.io/badge/ROS2-black?logo=ros&style=flat-square) ![Gazebo](https://img.shields.io/badge/Gazebo-black?style=flat-square)
+**Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=pytorch&style=flat-square) ![JAX](https://img.shields.io/badge/JAX-black?logo=google&style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?logo=tensorflow&style=flat-square)
+**Languages** | ![Python](https://img.shields.io/badge/Python-black?logo=python&style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-black?logo=c%2B%2B&style=flat-square) ![C](https://img.shields.io/badge/C-black?logo=c&style=flat-square)
+**Tools** | ![Linux](https://img.shields.io/badge/Linux-black?logo=linux&style=flat-square) ![Docker](https://img.shields.io/badge/Docker-black?logo=docker&style=flat-square) ![Git](https://img.shields.io/badge/Git-black?logo=git&style=flat-square) ![AWS](https://img.shields.io/badge/AWS-black?logo=amazon-aws&style=flat-square)
 
 I'm interested in vision-language-action, world models, vision language model, multimodal shifts, and early-stage investing.
 
