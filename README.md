@@ -5,18 +5,17 @@ __👋 Hi, this is June__
 
 I'm interested in vision-language-action, world models, vision language model, multimodal shifts, and early-stage investing.
 
-I'm currently a junior at Emory University studying CS and Math. I'm also an incoming Software Engineering Intern at [Google](https://www.google.com/).
+I'm currently a junior at Seoul National University studying Biosystems Engineering and Artificial Intelligence. 
+
 Previously, I was a 
--  Software Development Engineer Intern at [AWS](https://aws.amazon.com/)
+-  Student Researcher at [SNU Robot Learning Lab](https://rllab.snu.ac.kr/).
+-  Research Assistant at [SNU AIoT Lab](https://aiot.snu.ac.kr/).
+-  Student Researcher at [SNU BiCPAL Lab](http://bicpal.snu.ac.kr/).
 
-Now, I am  
-- building [Polymic](https://github.com/polymic)
-
-I was recently working on
+Now, I am researching
+- [text2robot](https://github.com/junesjukim/text2robot)
+- [humanoid tutorial](https://github.com/junesjukim/humanoidtutorial)
+  
+I was working on
+- [PlanningWithFlowmatching](https://github.com/junesjukim/PlanningWithFlowmatching)
 - [MEDi](https://github.com/2nd-Company/MEDi)
-
-
-<!---
-ethansjpark/ethansjpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
